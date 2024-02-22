@@ -1,0 +1,4 @@
+[submodule "dependencies"]
+	path = dependencies
+	url = https://4fm6wobepjdk2dzgqsnmzyfrgb6e24uepeakwq2sl3jjvge3zm5a@dev.azure.com/mcb-omnichannel/mcb-android/_git/dependencies
+	branch = develop
